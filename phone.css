@@ -194,4 +194,24 @@
     
 }
   }
-  
+
+@media (max-width: 248px) {
+#element {
+    font-size: 23px;
+}
+    .sectionfirstptag p {
+    font-size: 12px;
+}
+    .section2porth3heading {
+    font-size: 16px;
+   
+}
+ .phone {
+    font-size: 12px;
+}
+.sec3h3 {
+
+    font-size: 14px;
+}
+}
+
